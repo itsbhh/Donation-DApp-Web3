@@ -45,7 +45,7 @@ Make sure you have the following installed:
 1️⃣ **Clone the repository:**  
    ```sh
    git clone https://github.com/itsbhh/Donation-DApp-Web3
-   
+   ```
 
  
 
