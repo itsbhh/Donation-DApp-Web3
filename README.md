@@ -41,10 +41,20 @@ Make sure you have the following installed:
 - MetaMask (for interacting with the blockchain)  
 - Hardhat (for deploying and testing the smart contract)  
 
-### Steps  
+### Step 
 1️⃣ **Clone the repository:**  
    ```sh
    git clone https://github.com/itsbhh/Donation-DApp-Web3
-   
+   ```
 
  
+
+![image](https://github.com/user-attachments/assets/4338bde5-64a1-4683-8c47-23e85b5ac502)
+
+
+
+### Video Demonstration
+https://github.com/user-attachments/assets/9254bb05-4ff9-40b6-8a13-e3706a275f86
+
+
+
