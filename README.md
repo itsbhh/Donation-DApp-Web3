@@ -47,7 +47,26 @@ Make sure you have the following installed:
    git clone https://github.com/itsbhh/Donation-DApp-Web3
    ```
 
- 
+ ## Future Scope 🚀
+
+### 🔹 Multi-Currency Support  
+Enable donations in multiple cryptocurrencies beyond Ether, allowing users to contribute using Bitcoin, USDT, and other popular digital assets.
+
+### 🔹 Smart Contract Upgradeability  
+Implement upgradable smart contracts using proxy patterns to enable future enhancements without redeploying the entire contract.
+
+### 🔹 Integration with NFT Rewards  
+Introduce an NFT reward system where donors receive unique digital collectibles as a token of appreciation for their contributions.
+
+### 🔹 Mobile App Support  
+Develop a mobile-friendly version or a dedicated mobile app to provide users with a seamless donation experience on smartphones and tablets.
+
+### 🔹 Anonymous Donations  
+Offer an option for donors to contribute without revealing their identity, ensuring privacy while maintaining transparency on the blockchain.
+
+### 🔹 Social Media Integration  
+Enable donors to share their contributions on social media platforms, increasing awareness and encouraging more participation in charitable causes.
+
 
 ![image](https://github.com/user-attachments/assets/4338bde5-64a1-4683-8c47-23e85b5ac502)
 
