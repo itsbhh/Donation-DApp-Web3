@@ -17,7 +17,7 @@ Donation DApp is a decentralized blockchain-based application that allows users 
 
 ## Smart Contract (`chai.sol`)  
 
-- **Contract Address:** 0x3C3e473d96bd3A4d1E52Cacd0d0119C274d38997 
+- **Contract Address:** [0x3C3e473d96bd3A4d1E52Cacd0d0119C274d38997](https://edu-chain-testnet.blockscout.com/address/0x3C3e473d96bd3A4d1E52Cacd0d0119C274d38997)
 
 ### Functions  
 
